@@ -6,3 +6,4 @@ Make and commit changes
 In the editor, write a bit about yourself.
 Write a commit message that describes your changes.
 Click Commit changes button.
+edited 10/26/2017
